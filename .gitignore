@@ -1,4 +1,4 @@
 # .gitignore file for Bsa7a
-./*.o
+*.o
 ./Build/DEBUG/*
 ./Build/RELEASE/*
